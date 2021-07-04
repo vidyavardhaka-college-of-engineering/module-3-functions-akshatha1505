@@ -7,6 +7,9 @@
 	int sum(int a,int b)
 	{
 	    //Complete the missing code
+      int sum;
+      sum=a+b;
+      return sum;
 	}
 	int main()
 	{
